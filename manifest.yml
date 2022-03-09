@@ -1,0 +1,5 @@
+applications:
+- name  : fiorielementlistcrud
+- buildpacks :
+- nodejs_buildpacks
+- memory : 1G
